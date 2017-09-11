@@ -1,0 +1,59 @@
+body { width: 100%;
+		height: 100%;
+		 background-color: white; 
+		 } 
+		 
+.oneblock {
+	background-color: #E5E54A; 
+	width: 50%; 
+	min-height: 30%;
+	display: inline-block; 
+	font-family: fantasy, cursive;
+	font-size: 30px; 
+	color: black; 
+	} 
+	
+	.twoblock { background-color: #4A4A40; 
+	width: 30%; 
+	min-height: 30%;
+	display: inline-block; 
+	font-family: fantasy, cursive, sans-serif;
+	font-size: 30px; 
+	color: black; 
+	} 
+	
+.threeblock {
+	background-color: #8E8E7D; 
+	width: 18.8%; 
+	min-height: 30%;
+	display: inline-block; 
+	font-family: fantasy, cursive;
+	font-size: 30px; 
+	color: black; 
+	} 
+	
+	.fourblock {
+	background-color: #840513 ; 
+	width: 50%; 
+	min-height: 70%;
+	display: inline-block; 
+	font-family: fantasy, cursive; 
+	font-size: 30px; 
+	color: black; 
+	} 
+	
+	.fiveblock {
+	background-color: #1E0584 ; 
+	width: 49%; 
+	min-height: 70%;
+	display: inline-block; 
+	font-family: fantasy, cursive;
+	font-size: 30px; 
+	color: black; 
+	} 
+	
+	
+		p { padding-top: 80px; 
+	color:black; 
+	} 
+	
